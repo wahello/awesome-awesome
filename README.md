@@ -8,9 +8,6 @@ A curated list of awesome awesomes.
 
 
 
-
-
-
 ## Computer languages
 * [java](https://github.com/keyeMyria/awesome-awesome/blob/master/java.md) - Python related
 * [python](https://github.com/keyeMyria/awesome-awesome/blob/master/python.md) - Python related
