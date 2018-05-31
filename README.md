@@ -22,4 +22,5 @@ A curated list of awesome awesomes.
     
 ## Computer platforms
 * [android](https://github.com/keyeMyria/awesome-awesome/blob/master/android.md) - Android related
+* [iOS](https://github.com/keyeMyria/awesome-awesome/blob/master/iOS.md) - iOS related
     
