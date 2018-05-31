@@ -21,5 +21,7 @@
 * [mishbahr's awesome-django-cms](https://github.com/mishbahr/awesome-django-cms)
  
 * [humiaozuzu's awesome-flask](https://github.com/humiaozuzu/awesome-flask)
+ 
+* [jtoy's awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)
 
 
